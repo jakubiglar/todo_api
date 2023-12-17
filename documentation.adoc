@@ -1,0 +1,15 @@
+[#_todo_attributes]
+### ToDo Attributes:
+- id
+- name
+- duration_in_minutes
+- how_much_work <int>
+- due_date <date>
+- is_completed <boolean>
+- colour <colour>
+- description <str>
+- creation_timestamp <datetime>
+
+#### Open Ideas:
+* add option to mark todo as repeatable
+** if todo is repeatable add option to add frequency (how often the todo will be done in month)
